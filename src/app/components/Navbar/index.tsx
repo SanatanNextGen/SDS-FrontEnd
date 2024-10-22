@@ -16,7 +16,7 @@ const Navbar = ({ openModal }: NavbarTypeProps) => {
         <li className="m-2 p-2">
           <RouterLinks
             href={`${path === '/' ? '#about-us' : '/#about-us'}`}
-            text="on"
+            text="About Us"
           />
         </li>
 

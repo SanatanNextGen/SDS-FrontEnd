@@ -44,7 +44,7 @@ const Footer = () => {
                   href: "/",
                 },
                 {
-                  name: "on",
+                  name: "About Us",
                   href: `${path === "/" ? "#about-us" : "/#about-us"}`,
                 },
                 {
