@@ -29,8 +29,8 @@ const BannerImage = () => {
       <Image
         src={homePageBanner || banner}
         alt="banner-image"
-        width={100}
-        height={100}
+        width={1500}
+        height={1500}
         className="w-full block object-cover"
       />
       <div className="to-shadow pointer-events-none absolute inset-0 z-10 bg-gradient-to-b from-transparent"></div>

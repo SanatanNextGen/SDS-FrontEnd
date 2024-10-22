@@ -2,7 +2,7 @@ import { config } from "dotenv";
 
 config();
 
-const HOME_PAGE_API = "http://localhost:9000";
+const HOME_PAGE_API = "https://sanatan-digital-system-backend.onrender.com";
 
 export const fetchHomePage = async () => {
   try {
