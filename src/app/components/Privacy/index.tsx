@@ -45,7 +45,7 @@ const PrivacyPage = () => {
     <section className="container flex flex-col items-center justify-center">
       <header className="mt-10 flex flex-col items-center justify-center gap-4">
         <h1 className="max-w-2xl text-center text-2xl font-semibold tracking-wider text-primary md:text-3xl">
-          Privacy Policy of Sanatna Digital Solution (SDS)
+          Privacy Policy of Sanatan Digital System (SDS)
         </h1>
       </header>
 

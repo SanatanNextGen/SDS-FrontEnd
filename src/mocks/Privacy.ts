@@ -3,7 +3,7 @@ export const PrivacyMock = [
     id: "1",
     title: "Privacy & Policy",
     Introduction:
-      'Sanatna Digital Solution (hereinafter referred to as "SDS," "we," "us," or "our") is committed to protecting and respecting your privacy. This privacy policy ("Policy") sets forth how we, as a private company based in India with a North American headquarters in California, collect, use, disclose, and safeguard the personal information of our clients, users, website visitors, and other individuals ("you" or "your") who interact with our websites and services.',
+      'Sanatan Digital System (hereinafter referred to as "SDS," "we," "us," or "our") is committed to protecting and respecting your privacy. This privacy policy ("Policy") sets forth how we, as a private company based in India with a North American headquarters in California, collect, use, disclose, and safeguard the personal information of our clients, users, website visitors, and other individuals ("you" or "your") who interact with our websites and services.',
     Information:
       "We may collect and process the following types of information: a. Personal Identification Information: Name, email address, phone number, postal address, job title, and organization name etc. b. Technical Information: IP address, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform, etc. and other technology on the devices you use to access this website. c. Usage Data: Information about how you use our website, products, and services etc. d. Marketing and Communications Data: Your preferences in receiving marketing from us and your communication preferences.",
     How: "We collect information through various means, including, but not limited to: a. Direct Interactions: You may provide personal information by filling in forms or corresponding with us by mail, phone, email, or otherwise. b. Automated Technologies: As you interact with our website, we may automatically collect technical and usage data via cookies, server logs, and other similar technologies. c. Third Parties: We may receive personal data about you from third parties, including analytics providers and advertising networks.",
@@ -25,7 +25,7 @@ export const PrivacyMock = [
   //   id: "2",
   //   title: "Privacy & Policy",
   //   Introduction:
-  //     'Sanatna Digital Solution (hereinafter referred to as "SDS," "we," "us," or "our") is committed to protecting and respecting your privacy. This privacy policy ("Policy") sets forth how we, as a private company based in India with a North American headquarters in California, collect, use, disclose, and safeguard the personal information of our clients, users, website visitors, and other individuals ("you" or "your") who interact with our websites and services.',
+  //     'Sanatan Digital System (hereinafter referred to as "SDS," "we," "us," or "our") is committed to protecting and respecting your privacy. This privacy policy ("Policy") sets forth how we, as a private company based in India with a North American headquarters in California, collect, use, disclose, and safeguard the personal information of our clients, users, website visitors, and other individuals ("you" or "your") who interact with our websites and services.',
   //   Information:
   //     "We may collect and process the following types of information: a. Personal Identification Information: Name, email address, phone number, postal address, job title, and organization name etc. b. Technical Information: IP address, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform, etc. and other technology on the devices you use to access this website. c. Usage Data: Information about how you use our website, products, and services etc. d. Marketing and Communications Data: Your preferences in receiving marketing from us and your communication preferences.",
   //   How: "We collect information through various means, including, but not limited to: a. Direct Interactions: You may provide personal information by filling in forms or corresponding with us by mail, phone, email, or otherwise. b. Automated Technologies: As you interact with our website, we may automatically collect technical and usage data via cookies, server logs, and other similar technologies. c. Third Parties: We may receive personal data about you from third parties, including analytics providers and advertising networks.",
@@ -48,7 +48,7 @@ export const PrivacyMock = [
   //   title: "Introduction",
   //   subtitle: "Introduction",
   //    description:
-  //     'Sanatna Digital Solution (hereinafter referred to as "SDS," "we," "us," or "our") is committed to protecting and respecting your privacy. This privacy policy ("Policy") sets forth how we, as a private company based in India with a North American headquarters in California, collect, use, disclose, and safeguard the personal information of our clients, users, website visitors, and other individuals ("you" or "your") who interact with our websites and services.',
+  //     'Sanatan Digital System (hereinafter referred to as "SDS," "we," "us," or "our") is committed to protecting and respecting your privacy. This privacy policy ("Policy") sets forth how we, as a private company based in India with a North American headquarters in California, collect, use, disclose, and safeguard the personal information of our clients, users, website visitors, and other individuals ("you" or "your") who interact with our websites and services.',
   // },
   // {
   //   id: "3",
@@ -83,20 +83,20 @@ export const PrivacyMock = [
   //   title: "How We Collect Information",
   //   subtitle: "How We Collect Information",
   //    description:
-  //     'Sanatna Digital Solution (hereinafter referred to as "SDS," "we," "us," or "our") is committed to protecting and respecting your privacy. This privacy policy ("Policy") sets forth how we, as a private company based in India with a North American headquarters in California, collect, use, disclose, and safeguard the personal information of our clients, users, website visitors, and other individuals ("you" or "your") who interact with our websites and services.',
+  //     'Sanatan Digital System (hereinafter referred to as "SDS," "we," "us," or "our") is committed to protecting and respecting your privacy. This privacy policy ("Policy") sets forth how we, as a private company based in India with a North American headquarters in California, collect, use, disclose, and safeguard the personal information of our clients, users, website visitors, and other individuals ("you" or "your") who interact with our websites and services.',
   // },
   // {
   //   id: "8",
   //   title: "Introduction",
   //   subtitle: "Introduction",
   //    description:
-  //     'Sanatna Digital Solution (hereinafter referred to as "SDS," "we," "us," or "our") is committed to protecting and respecting your privacy. This privacy policy ("Policy") sets forth how we, as a private company based in India with a North American headquarters in California, collect, use, disclose, and safeguard the personal information of our clients, users, website visitors, and other individuals ("you" or "your") who interact with our websites and services.',
+  //     'Sanatan Digital System (hereinafter referred to as "SDS," "we," "us," or "our") is committed to protecting and respecting your privacy. This privacy policy ("Policy") sets forth how we, as a private company based in India with a North American headquarters in California, collect, use, disclose, and safeguard the personal information of our clients, users, website visitors, and other individuals ("you" or "your") who interact with our websites and services.',
   // },
   // {
   //   id: "9",
   //   title: "Introduction",
   //   subtitle: "Introduction",
   //    description:
-  //     'Sanatna Digital Solution (hereinafter referred to as "SDS," "we," "us," or "our") is committed to protecting and respecting your privacy. This privacy policy ("Policy") sets forth how we, as a private company based in India with a North American headquarters in California, collect, use, disclose, and safeguard the personal information of our clients, users, website visitors, and other individuals ("you" or "your") who interact with our websites and services.',
+  //     'Sanatan Digital System (hereinafter referred to as "SDS," "we," "us," or "our") is committed to protecting and respecting your privacy. This privacy policy ("Policy") sets forth how we, as a private company based in India with a North American headquarters in California, collect, use, disclose, and safeguard the personal information of our clients, users, website visitors, and other individuals ("you" or "your") who interact with our websites and services.',
   // },
 ];
