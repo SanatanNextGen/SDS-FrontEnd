@@ -116,7 +116,7 @@ const Footer = () => {
               icon: MdWhatsapp,
             },
             {
-              social_name: "sanatanexpress9@mail.com",
+              social_name: "info@sanatandigitalsystem.com",
               href: "#",
               icon: MdOutlineMailOutline,
             },
@@ -128,7 +128,7 @@ const Footer = () => {
             {
               social_name:
                 "Sanatan House, 284-B, New Loha Mandi, Dewas Naka, Indore (M.P)",
-              href: "https://www.linkedin.com/company/juniors-developers-group/mycompany/",
+              href: "https://maps.app.goo.gl/DdrU6Waeik98cPt66",
               icon: SlLocationPin,
             },
           ]}
